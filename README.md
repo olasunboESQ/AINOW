@@ -52,11 +52,11 @@ The analysis was visualized using Microsoft Excel with KPIs, bar charts, pie cha
 
 ## 💹 Revenue Insights
 
-    East has the highest revenue.
+  East has the highest revenue.
    
-    North pulled in the lowest.
+   North pulled in the lowest.
    
-    Sales Rep with the highest revenue is  Chinedu Nwosu. 
+   Sales Rep with the highest revenue is  Chinedu Nwosu. 
 
  # 🎯 Actionable Insights
 
