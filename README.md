@@ -1,7 +1,11 @@
-<img width="105" height="21" alt="image" src="https://github.com/user-attachments/assets/c07c2a87-fc4d-44ae-8d56-35fe8000a6ad" /># 📦 AINOW- DE-LITE ELECTRONICS LTD. SALES ANALYSIS
+# 📦 AINOW- DE-LITE ELECTRONICS LTD. SALES ANALYSIS
 ADVANCED DATA ANALYSIS AND VISUALIZATION
- 
-This project presents an end-to-end exploratory data analysis and dashboard visualization of De-Lite Electronics Sales record. The aim is to clean,analyse and uncover actionable insights into product performance, customer engagement, and sales reps performance to support management's decision making.
+
+## Introduction 
+
+This project presents an end-to-end exploratory data analysis and dashboard visualization of De-Lite Electronics Sales record. The aim is to clean,analyse and uncover actionable insights into product performance, customer engagement, and sales reps performance to support management's decision making.  The sales data was short but very messy containing wrongly entered dates,wrongly spelt names, text entered with commas and fillstops which were unnecessary.
+
+ The data was cleaned by using Text to Columns, using flash fills, using functions, Len function, Sumproduct to count the product column distinctly, Substitute where necessary. 
 
  # 📊 Dataset Overview
 
@@ -49,8 +53,20 @@ The analysis was visualized using Microsoft Excel with KPIs, bar charts, pie cha
 ## 💹 Revenue Insights
 
     East has the highest revenue.
+   
     North pulled in the lowest.
+   
     Sales Rep with the highest revenue is  Chinedu Nwosu. 
+
+ # 🎯 Actionable Insights
+
+ 1. Leverage High-Performing Sales Reps: The bottom 3 Sales Reps sold only one product each and they did this just in a region while the top 3 sales rep
+    sold various products of the company and also went to various regions to market this goods and this was what made them generate more revenue for the company.
+   - The top 3 Sales reps should be well commended for a job well done which will serve as drive for other sales rep to pull their weight and give the company theri best.
+
+2. Push Low-Visibility Products: Products with more revenue but low unit sold should be promoted — via featured listings or influencer partnerships — to boost awareness.
+
+3. Bundle Low-Rated, High-Discount Items: Combine weaker products with stronger ones in bundles to improve sales volume without impacting individual revenue margins too deeply.
     
 🛠 Tools Used
 
@@ -60,6 +76,6 @@ The analysis was visualized using Microsoft Excel with KPIs, bar charts, pie cha
 
 If you have questions or would like to collaborate:
 
-Bamidele Ogunsanya
+Bolarinwa Olasunbo
 
-📧 Email: [bamideleogunsanya33@gmail.com]
+📧 Email: [alicebolarinwa@yahoo.com]
